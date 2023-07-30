@@ -1,14 +1,17 @@
 # city-compare
 
-This template should help get you started developing with Vue 3 in Vite.
+App to compare cities data.
 
-## Recommended IDE Setup
+## Demo
+Wanna try the app? It's [right here](https://city-compare-11a11.firebaseapp.com)!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Technologies
+* Vue.js with Pinia, Vuetify and TypeScript
+* Linter with ESLint and Prettier
+* Cities search with [Geonames API](http://www.geonames.org/export/web-services.html)
+* City data with [Wikidata API](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service)
+* Hosted on Firebase
+* CI/CD with Github Actions
 
 ## Project Setup
 
